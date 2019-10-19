@@ -1,29 +1,22 @@
 {
-	"cnn": {
-		"link": "http://edition.cnn.com/"
+	"VietnamInvestmentReview": {
+		"link": "https://www.vir.com.vn/"
 	},
-	"bbc": {
-		"rss": "http://feeds.bbci.co.uk/news/rss.xml",
-		"link": "http://www.bbc.com/"
+
+	"Vietnam News": {
+		"link": "https://vietnamnews.vn/"
 	},
-	"theguardian": {
-		"rss": "https://www.theguardian.com/uk/rss",
-		"link": "https://www.theguardian.com/international"
+	
+
+	"Tuoitre  News": {
+		"link": "https://tuoitrenews.vn/"
 	},
-  "breitbart": {
-    "link": "http://www.breitbart.com/"
-  },
-  "infowars": {
-    "link": "https://www.infowars.com/"
-  },
-  "foxnews": {
-    "link": "http://www.foxnews.com/"
-  },
-  "nbcnews": {
-    "link": "http://www.nbcnews.com/"
-  },
-  "washingtonpost": {
-    "rss": "http://feeds.washingtonpost.com/rss/world",
-    "link": "https://www.washingtonpost.com/"
-  }
+	"Vietnam Insider": {
+		"link": "https://vietnaminsider.vn/"
+	},
+	"VNANET": {
+		"link": "https://news.vnanet.vn/en/"
+	}
+
+
 }

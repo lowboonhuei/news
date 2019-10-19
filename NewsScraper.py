@@ -6,7 +6,7 @@ from time import mktime
 from datetime import datetime
 
 # Set the limit for number of articles to download
-LIMIT = 999
+LIMIT = 9999
 
 data = {}
 data['newspapers'] = {}
@@ -103,3 +103,8 @@ try:
     with open('scraped_articles.json', 'w') as outfile:
         json.dump(data, outfile)
 except Exception as e: print(e)
+
+
+
+
+
