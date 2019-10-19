@@ -1,7 +1,7 @@
 import json
 #searchword = ['casino','No.03','Corona Resort']
 searchword = ['casino']
-with open('/Users/boon/NewsScraper/scraped_articles.json') as json_file:
+with open('./scraped_articles.json') as json_file:
 	data = json.load(json_file)
 for publisher in data['newspapers']:
 	for news in data['newspapers'][publisher]['articles']:
